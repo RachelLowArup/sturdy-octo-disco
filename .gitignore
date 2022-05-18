@@ -1,5 +1,9 @@
 .DS_Store
+<<<<<<< HEAD
 .vscode/
+=======
+.vscod/
+>>>>>>> fix-classes
 authentication.js
 node_modules
 notes/
