@@ -1,6 +1,10 @@
 .DS_Store
 <<<<<<< HEAD
+<<<<<<< HEAD
 .vscode/
+=======
+.vscod/
+>>>>>>> fix-classes
 =======
 .vscod/
 >>>>>>> fix-classes
